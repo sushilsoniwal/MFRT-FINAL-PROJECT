@@ -3,6 +3,8 @@ I created a Ed-Tech website that helps students to get quality education at affo
 
 # Azure Website Link:- https://nice-tree-0995eb310.1.azurestaticapps.net/
 
+# Scholar vision aims to provide quality education to everyone at an affordable price. We believe that this world can only become better via affordable education. Our website helps peers to grow together with our highly experienced teachers and a positive learning environment in the comfort of your home.
+
 ## Some Screenshots Of Scholar Vision:
 
 ![Screenshot (97)](https://user-images.githubusercontent.com/79694024/175762961-d57c7c83-4f6e-4c7d-9249-945fcf7a0a96.png)
